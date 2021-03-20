@@ -1,6 +1,6 @@
 ---
 title: "lab-07-simpsons.Rmd"
-author: "Musab Isah "
+author: wejdan awad 
 date: "17 March 2021"
 output: pdf_document
 ---
